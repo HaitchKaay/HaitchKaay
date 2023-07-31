@@ -18,7 +18,7 @@
 
 ### 🤝🏻 &ensp;  `Wanna Connect? I'm here:`
 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="">
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/haitchkaay/">
   <img align="center" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/assets/linkedin.svg" />
 </a>
 &nbsp;&nbsp;<a href="">
