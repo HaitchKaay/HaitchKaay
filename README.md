@@ -3,7 +3,7 @@
   <p>
     <a href="https://saadmehmood.netlify.app/">
       <img src = "https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/MyName.svg">
-      <p align="middle"> <img src="https://komarev.com/ghpvc/?username=iamsaadMehmood&label=Profile%20views&color=db7093&style=plastic"   alt="iamsaadMehmood" /> </p>
+      <p align="middle"> <img src="https://komarev.com/ghpvc/?username=HaitchKaay&label=Profile%20views&color=db7093&style=plastic"   alt="HaitchKaay" /> </p>
     </a>
   </p>
 </div>
