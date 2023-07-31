@@ -18,16 +18,16 @@
 
 ### 🤝🏻 &ensp;  `Wanna Connect? I'm here:`
 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/iamsaadMehmood/">
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="">
   <img align="center" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/assets/linkedin.svg" />
 </a>
-&nbsp;&nbsp;<a href="https://twitter.com/iamsaadMehmood">
+&nbsp;&nbsp;<a href="">
   <img align="center" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/assets/twitter.svg"/>
 </a>
-&nbsp;&nbsp;<a href="https://stackoverflow.com/users/16981415/saad-mehmood">
+&nbsp;&nbsp;<a href="">
   <img align="center" alt="stack overflow" width="30px" src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/assets/stack-overflow.svg"/>
 </a>
-&nbsp;&nbsp;<a href="https://www.reddit.com/user/real_warriorex">
+&nbsp;&nbsp;<a href="">
   <img align="center" alt="reddit" width="35px" src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/assets/reddit.svg"/>
 </a>
 &nbsp;&nbsp;<a href="mailto:hamza8521.hkl@outlook.com">
