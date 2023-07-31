@@ -90,5 +90,5 @@
 
 
 <a href="">
-  <img align="middle" src = "https://raw.githubusercontent.com/iamsaadMehmood/HaitchKaay/main/assets/bottomFooter.svg">
+  <img align="middle" src = "https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/assets/bottomFooter.svg">
 </a>
