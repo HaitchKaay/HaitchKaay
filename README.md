@@ -19,15 +19,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/haitchkaay/">
   <img align="center" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/assets/linkedin.svg" />
 </a>
-&nbsp;&nbsp;<a href="">
-  <img align="center" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/assets/twitter.svg"/>
-</a>
-&nbsp;&nbsp;<a href="">
-  <img align="center" alt="stack overflow" width="30px" src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/assets/stack-overflow.svg"/>
-</a>
-&nbsp;&nbsp;<a href="">
-  <img align="center" alt="reddit" width="35px" src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/assets/reddit.svg"/>
-</a>
+
 &nbsp;&nbsp;<a href="mailto:hamza8521.hkl@outlook.com">
   <img align="center" alt="gmail" width="35px" src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/assets/gmail.svg"/>
 </a>
@@ -68,6 +60,7 @@
  ## 👯 I’m open to collaborate on
 
 - For doing projects related to **Building Mobile Apps**.
+- For doing projects related to **Building Web Apps**.
 - Building **APIs for Apps**. 
 
 ### <img align="left" src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/gifs/graphUp.gif" height="31px"> `See the Status here:`
