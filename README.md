@@ -9,11 +9,9 @@
 </div>
 
 ### <img align="left" src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/gifs/developer.gif" height="31px" /> `Here's my Intro:`
-- 🔭 &nbsp;I’m currently working on <b>React Native and NestJs Projects.</b>
-- 🌱 &nbsp;I’m currently learning Flutter, Python, FastAPI 
-- 🏆 &nbsp; Colaborator in npm package react-native-datetimepicker.
-- 🔖 Check out my Portfolio <a href ="" target="_blank" >here</a>.
-- ⚡ &nbsp;Fun fact: I :heart: :cat:s and PS Gaming
+- 🔭 &nbsp;I’m currently working on <b>React Native, React , Next and NestJs Projects.</b>
+- 🌱 &nbsp;I’m currently learning Flutter, 
+- ⚡ &nbsp;Fun fact: I :heart: ☕ and PC Gaming
 <br/>
 
 ### 🤝🏻 &ensp;  `Wanna Connect? I'm here:`
