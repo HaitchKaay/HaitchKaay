@@ -21,7 +21,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:hamza8521.hkl@outlook.com">
-  <img alt="gmail" width="35px" src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/assets/gmail.svg"/>
+  <img alt="outlook" width="35px" src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/assets/outlook.svg"/>
 </a>
 
 
