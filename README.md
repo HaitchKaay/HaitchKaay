@@ -9,20 +9,21 @@
 </div>
 
 ### <img align="left" src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/gifs/developer.gif" height="31px" /> `Here's my Intro:`
-- 🔭 &nbsp;I’m currently working on <b>React Native, React , Next and NestJs Projects.</b>
+- 🔭 &nbsp;I’m currently working on <b>React Native, React , Next and NestJS Projects.</b>
 - 🌱 &nbsp;I’m currently learning Flutter, 
 - ⚡ &nbsp;Fun fact: I :heart: ☕ and PC Gaming
 <br/>
 
 ### 🤝🏻 &ensp;  `Wanna Connect? I'm here:`
 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/haitchkaay/">
-  <img align="center" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/haitchkaay/">
+  <img alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/assets/linkedin.svg" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:hamza8521.hkl@outlook.com">
+  <img alt="gmail" width="35px" src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/assets/gmail.svg"/>
 </a>
 
-&nbsp;&nbsp;<a href="mailto:hamza8521.hkl@outlook.com">
-  <img align="center" alt="gmail" width="35px" src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/assets/gmail.svg"/>
-</a>
 
 <br /> 
 
