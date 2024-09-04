@@ -55,7 +55,7 @@ Whether it's developing a socket server, setting up payment gateways, integratin
   <br/>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=HaitchKaay&theme=vision-friendly-dark" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=HaitchKaay&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HaitchKaay&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="GitHub Stats"/>
 </div>
 
 ---
