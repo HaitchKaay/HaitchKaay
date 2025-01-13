@@ -2,7 +2,7 @@
   <h1> Hey there! <img alt="waving hand" width="40px" src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/gifs/hy.gif"/>, I'm...</h1>
   <p>
     <a href="">
-      <img src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/MyName.svg" alt="Your Name"/>
+      <img src="https://raw.githubusercontent.com/HaitchKaay/HaitchKaay/main/MyName.svg" alt="Hamza Khalid"/>
     </a>
   </p>
   <p align="center">
